@@ -2,7 +2,7 @@
     if(isset($_GET['code'])) {
         $code = $_GET['code'];
 
-        $conn = new mySqli('localhost', 'root', '', 'test');
+        $conn = new mySqli('localhost', 'root', '', 'database_name');
         if($conn->connect_error) {
             die('Could not connect to the database');
         }
