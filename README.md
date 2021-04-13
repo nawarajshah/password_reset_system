@@ -1,5 +1,5 @@
 # Password Reset System
-You can finethe explanation of the code in youtube video https://youtu.be/zUFcjOt_ytk
+You can fine the explanation of the code in youtube video https://youtu.be/zUFcjOt_ytk
 
 Before you use the code, edit following files.
 1. change_password_process.php, in line-5 edit database connection.
